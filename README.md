@@ -1,6 +1,6 @@
 # Quantum Image Classification with MPS
 
-This repository presents a simple quantum classifier designed to assess the encoding capabilities of Matrix Product States (MPS) for images. The widely recognized MNIST dataset is employed for binary classification. Utilizing $\log_2(L\timesL)$ qubits for $L\times L$ images, we encode images into the amplitudes of a quantum state, allowing for approximations with varying bond dimensions.
+This repository presents a simple quantum classifier designed to assess the encoding capabilities of Matrix Product States (MPS) for images. The widely recognized MNIST dataset is employed for binary classification. Utilizing $\log_2(L\times L)$ qubits for $L\times L$ images, we encode images into the amplitudes of a quantum state, allowing for approximations with varying bond dimensions.
 
 ## Model Overview
 
