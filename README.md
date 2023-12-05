@@ -16,7 +16,7 @@ For the MNIST dataset, $L=28$ so $q=10$ loading qubits.
 
 # Conclusions
 
-We evaluated the performance of the model across various compression values ($\chi$) while focusing on a single layer. In the classical model, we opted for a logistic regression model, utilizing the states $|\tilde{\psi}\rangle$ as the input.
+We evaluated the performance of the model across various compression values ($\chi$) using a single layer, so $3\times10=30$ parameters. In the classical model, we are using a very simple logistic regression model, utilizing the states $|\tilde{\psi}\rangle$ as the input. From the MNIST dataset, we are considering the number 3 as the label 0 and the numebr 9 as the label 1.
 
 ![Numerics](num.png)
 
